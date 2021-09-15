@@ -27,5 +27,3 @@ I am a focussed developer, and enjoy the challenge of working at the bleeding ed
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-taylor-rjj&show_icons=true&locale=en" alt="jamie-taylor-rjj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-taylor-rjj&" alt="jamie-taylor-rjj" /></p>
-
