@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
-<h3 align="center">CTO of RJJ Software, keep open source developer, podcaster, and father (not in that order)</h3>
+<h3 align="center">CTO of RJJ Software, keen open source developer, podcaster, father, teacher, and technologist (not in that order)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie-taylor-rjj&label=Profile%20views&color=0e75b6&style=flat" alt="jamie-taylor-rjj" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **.NET, JavaScript, DevOps, docker, and k8s**
 
-- ⚡ Fun fact **I'm bi-lingual (both English and Japanese), play bass guitar, and see myself as a [multipotentialite](https://en.wikipedia.org/wiki/Multipotentiality)**
+- ⚡ Fun fact **I'm bi-lingual (both English and Japanese), play bass guitar, see myself as a [multipotentialite](https://en.wikipedia.org/wiki/Multipotentiality), and host a [large number of podcasts](https://www.podchaser.com/creators/jamie-taylor-107ZzkFzHS)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
