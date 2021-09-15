@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
-<h3 align="center">CTO of RJJ Software, keen open source developer, podcaster, father, teacher, and technologist (not in that order)</h3>
+<h3 align="center">CTO of [RJJ Software](https://rjj-software.co.uk), keen open source developer, podcaster, father, teacher, and technologist (not in that order)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie-taylor-rjj&label=Profile%20views&color=0e75b6&style=flat" alt="jamie-taylor-rjj" /> </p>
 
