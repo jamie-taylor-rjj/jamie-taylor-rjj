@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">CTO of RJJ Software, keen open source developer, podcaster, father, teacher, and technologist (not in that order)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie-taylor-rjj&label=Profile%20views&color=0e75b6&style=flat" alt="jamie-taylor-rjj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-taylor-rjj" alt="jamie-taylor-rjj" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-taylor-rjj&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=3&theme=algolia&no-frame=true&no-bg=true" alt="jamie-taylor-rjj" /></a> </p>
 
 - 📝 I regularly write articles on [https://rjj-software.co.uk/blog](https://rjj-software.co.uk/blog)
 
