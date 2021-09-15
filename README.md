@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">CTO of RJJ Software, keen open source developer, podcaster, father, teacher, and technologist (not in that order)</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie-taylor-rjj&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=3&theme=algolia&no-frame=true&no-bg=true" alt="jamie-taylor-rjj" /></a> </p>
+I am driven by helping people to reach their potential; I live to teach and give back, and revel the challenges of building software at the bleeding edge. I am also a keen open source developer and podcaster - being the host of ***[three](https://dotnetcore.show)*** **[separate](https://tabsandspaces.io)** _[podcasts](https://wafflingtaylors.rocks)_ - and use these shows to both sate my creativity and give back to the tech community.
+
+I am a focussed developer, and enjoy the challenge of working at the bleeding edge of what technology can do. As such, I am constantly learning new programming lanugages, frameworks, and techniques. Even though the majority of my experience is in .NET and JavaScript, I pride myself on my ability to turn my hand to any languages or frameworks; using the deep learning abilities that I have mastered through years of learning things both quickly and to a deep level.
+
+<p align="center"> <a href="https://github.com/jamie-taylor-rjj"><img src="https://github-profile-trophy.vercel.app/?username=jamie-taylor-rjj&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=3&theme=algolia&no-frame=true&no-bg=true" alt="jamie-taylor-rjj" /></a> </p>
 
 - 📝 I regularly write articles on [https://rjj-software.co.uk/blog](https://rjj-software.co.uk/blog)
 - 💬 Ask me about **.NET, JavaScript, DevOps, docker, k8s, and how to reach your audience using podcasts**
